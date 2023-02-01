@@ -17,7 +17,7 @@ artIntegration: myArtifactory
  
 ##### Repository Details
 repo:
-  path: org/repo
+  path: jfrog/jfrog-pipelines-templates
   gitIntegration: myGithub
   branchPattern: "^main$"
  
